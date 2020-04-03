@@ -1,0 +1,3 @@
+Doubts to think throughout reading:
+
+1 - Can architectural protection with evolvability increase the bureaucracy of a system?
